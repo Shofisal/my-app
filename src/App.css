@@ -1,5 +1,12 @@
 .App {
-  text-align: center;
+  font-family: copperlate, fantasy;
+  background-color: beige;
+}
+
+.Judul1 {
+  padding-left: 120px;
+  background-color: beige;
+  font-family: Copperlate, fantasy;
 }
 
 .App-logo {

@@ -1,0 +1,18 @@
+.Profil {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+  text-align: justify;
+  background-image: url(Sampul2.png);
+  padding-bottom: 200px;
+}
+
+.judul {
+  padding-bottom: 10px;
+  padding-top: 20px;
+  text-align: center;
+  font-family: Copperlate, fantasy;
+}
+
+.Foto {
+  text-align: right;
+}
